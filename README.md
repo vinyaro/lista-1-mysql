@@ -7,7 +7,8 @@ Esta é uma lista de exercícios do site do [Professor Fantini](http://galileu.c
 
 ---
 
-## OBJETIVOS DESSA LISTA
+## 🎯 Objetivos desta Lista de Exercícios
+A lista de exercícios é dividida em dois exercícios principais, focados em introdução e prática com MySQL. Os objetivos resumidos são:
 - **Praticar Consultas SQL em um Banco de Dados Existente (BD World):** O Exercício 1 exige a criação de diversas consultas SQL para extrair informações do banco de dados World (ou BD World), como listar países ordenados, contar registros, encontrar dados por nome, região, área, população e contabilizar cidades e idiomas.
 - **Dominar Cláusulas e Funções SQL Essenciais:** O aluno deve utilizar comandos como ORDER BY, LIMIT, LIKE, funções de agregação (COUNT), e cláusulas como GROUP BY e WHERE para responder a perguntas específicas sobre os dados do país, como os 10 maiores ou menores, ou países com mais de uma língua oficial.
 - **Projetar e Criar um Novo Banco de Dados ("Agenda"):** O Exercício 2 desafia o aluno a criar do zero um banco de dados para uma "agenda" de contatos, decidindo a estrutura de tabelas com base na intuição e bom senso para armazenar informações detalhadas dos contatos.
