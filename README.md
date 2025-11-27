@@ -3,7 +3,7 @@
 Esta é uma lista de exercícios do site do [Professor Fantini](http://galileu.coltec.ufmg.br/fantini/hp/CursoBD/Curso/IntroducaoBD.php) vinculado ao Colégio Técnico da Universidade Federal de Minas Gerais (COLTEC/UFMG).
 É excelente para praticar linguagem DDL.
 
-🔗[link para a lista](http://galileu.coltec.ufmg.br/fantini/hp/CursoBD/Curso/Estudo_Orientado_02_ListaExercicios_02.html)
+🔗[link para a lista](http://galileu.coltec.ufmg.br/fantini/hp/CursoBD/Curso/Lista01_BD_2020.pdf)
 
 ---
 
