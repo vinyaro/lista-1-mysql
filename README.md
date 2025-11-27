@@ -8,9 +8,11 @@ Esta é uma lista de exercícios do site do [Professor Fantini](http://galileu.c
 ---
 
 ## OBJETIVOS DESSA LISTA
- - Testar os conhecimentos de consultas mais elaboradas, usando junções e (possivelmente) subqueries
- - Apresentar possíveis soluções e exemplos.
- - Apresentar ferramentas de acesso aos dados a partir de arquivos textos.
+- **Praticar Consultas SQL em um Banco de Dados Existente (BD World):** O Exercício 1 exige a criação de diversas consultas SQL para extrair informações do banco de dados World (ou BD World), como listar países ordenados, contar registros, encontrar dados por nome, região, área, população e contabilizar cidades e idiomas.
+- **Dominar Cláusulas e Funções SQL Essenciais:** O aluno deve utilizar comandos como ORDER BY, LIMIT, LIKE, funções de agregação (COUNT), e cláusulas como GROUP BY e WHERE para responder a perguntas específicas sobre os dados do país, como os 10 maiores ou menores, ou países com mais de uma língua oficial.
+- **Projetar e Criar um Novo Banco de Dados ("Agenda"):** O Exercício 2 desafia o aluno a criar do zero um banco de dados para uma "agenda" de contatos, decidindo a estrutura de tabelas com base na intuição e bom senso para armazenar informações detalhadas dos contatos.
+- **Inserir Dados e Realizar Consultas Básicas no BD Próprio:** A tarefa final do Exercício 2 é (i) criar o banco de dados da agenda, (ii) inserir dados (fictícios ou reais) e (iii) formular e executar consultas básicas para obter informações relevantes dos contatos, como buscar por nome, status, ou dados de redes sociais.
+- **Compreender o Modelo de Dados de uma Agenda de Contatos:** O aluno deve planejar o banco de dados da agenda para armazenar dados como Nome/Sobrenome, Apelido, Relação, Status, Frequência de Contato, Telefones, Redes Sociais, Localização e Data da Última Conversa.
 
 ---
 
